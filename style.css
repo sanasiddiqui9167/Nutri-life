@@ -1,0 +1,7 @@
+
+body { font-family: Arial, sans-serif; padding: 20px; margin: 0; background-color: #f8f7f3; color: #333; }
+header, footer { background-color: #f2e9e4; padding: 10px; text-align: center; }
+nav a { margin: 0 10px; text-decoration: none; color: #444; }
+main { max-width: 800px; margin: auto; padding: 20px; background: #fff; border-radius: 10px; }
+form input, form select, form textarea, form button { display: block; width: 100%; margin-top: 10px; padding: 10px; font-size: 1em; }
+button { background-color: #ffb347; border: none; color: white; cursor: pointer; border-radius: 5px; }
